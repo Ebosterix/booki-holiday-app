@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<your-actual-github-username>.github.io/booki-holiday-app/",
+  "homepage": "https://Ebosterix.github.io/booki-holiday-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "vite",
+    "start": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
